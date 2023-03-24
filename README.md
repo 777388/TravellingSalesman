@@ -30,3 +30,5 @@ You know what N will equal at the end?
 or
 
 55611.99999999999999997
+
+What really begs to question is, how the hell is it so nondeterministic, that it can finish an infinite recursive problem instantly?
