@@ -32,3 +32,7 @@ or
 55611.99999999999999997
 
 What really begs to question is, how the hell is it so nondeterministic, that it can finish an infinite recursive problem instantly?
+
+(This answer is being outright ignored by the Claye Mathematical Society who owe me a million dollars)
+
+In order to understand whats going on, the algorithmic way of determining what instantiates the first N, must be such a large number that N=p-p/N can't be computated than anything other than the perfect version of P. This means while N can be called in a nondeterministic way, the best methodology is to deterministically understand what is the processing systems weakest points, which is decimal placements and infinite recursion.
